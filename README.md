@@ -1,1 +1,1 @@
-# Hbomb97.github.io
+# This is a Paragon Power Calculator
