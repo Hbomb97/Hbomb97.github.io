@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Paragon Power Calculator</title>
+  </head>
+  <body>
+    <h1>Paragon Power Calculator</h1>
+    <div>
+      <label>Extra Tier 5 Towers:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <label>Non-Tier 5 Upgrades:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <label>Money Spent:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <label>Pops:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <label>Cash Generated:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <label>Totems:</label>
+      <input type="number" />
+    </div>
+    <div>
+      <button type="submit">Calculate</button>
+    </div>
+  </body>
+</html>
